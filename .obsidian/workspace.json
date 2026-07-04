@@ -25,14 +25,14 @@
             "id": "45a2c763485fed29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Session Notes/Session 2.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 2"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Extrenal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,8 +285,10 @@
       }
     ]
   },
-  "active": "010987759a70201a",
+  "active": "53d51e1b5e3d8065",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Wrath-of-the-Kaiju",
     "Session Notes/Session 2.md",
     "Wrath of the Kaiju/PC Backstories/Mirran.md",
     "Wrath of the Kaiju/Factions/The Chroniclers.md",
@@ -294,7 +296,6 @@
     "00 - Meta/Overview.md",
     "00 - Meta/Timeline.md",
     "00 - Meta/Templates/City Template.md",
-    "Untitled.base",
     "Professor Bombuku.md",
     "Wrath of the Kaiju/Locations/Puyi",
     "Wrath of the Kaiju/History/Gods and Pantheon/Ashura.md",
@@ -327,7 +328,6 @@
     "2026-07-04.md",
     "Wrath of the Kaiju/Assets/Pictures/Pasted image 20260218185531.png",
     "Wrath of the Kaiju/Assets/Pictures/Pasted image 20260701181706.png",
-    "copilot/copilot-conversations/D&D_Vault_Reorganization@20260704_101107.md",
     "Wrath of the Kaiju/Assets/Pictures/Pasted image 20260701191541.png",
     "Wrath of the Kaiju/Assets/Pictures/Pasted image 20260701193754.png",
     "Wrath of the Kaiju/Assets/Pictures/Pasted image 20260701191051.png",
