@@ -1,0 +1,1 @@
+Orphan boy who ended up on the steps of the temple of the moss sloth. 

@@ -1,0 +1,1 @@
+I'm not so sure how I feel about these guys.... They don't let us Chroniclers "meddle" in any of their business, which is troubling for me to say the least. I will say, they are efficient and I can respect that. There's not much to say here, but from what I've been able to gather this merchant guild seems to control more than they really let on.  

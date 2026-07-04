@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "discordWebhookURL": [
+    {
+      "description": "notes-for-players",
+      "url": "https://discord.com/api/webhooks/1406778665085440103/-C0M185RLl7ZPZr0f8fAYY0AaUTT-sW-kRZDdIQQlLxQSQcqtmLmNYIPbFiNKDhTjMRN"
+    }
+  ],
+  "attachmentsFolder": "",
+  "attachmentFormats": [
+    "apng",
+    "avif",
+    "gif",
+    "jpg",
+    "jpeg",
+    "jpe",
+    "jif",
+    "jfif",
+    "png",
+    "pdf",
+    "webp"
+  ],
+  "localSuggestionsLimit": 10,
+  "showPreviewInLocalModal": true,
+  "customBotUsername": "Ryoko's Journal Notes",
+  "customBotAvatarURL": "",
+  "useNoteTitleForEmbed": true,
+  "embedDefaultValues": {
+    "embedDefaultTitle": "",
+    "embedDefaultColor": "",
+    "embedDefaultURL": "",
+    "embedDefaultAuthor": {
+      "name": "",
+      "iconURL": "",
+      "url": ""
+    },
+    "embedDefaultDescription": "",
+    "embedDefaultThumbnail": "",
+    "embedDefaultFields": [],
+    "embedDefaultImage": "",
+    "embedDefaultFooter": {
+      "text": "",
+      "iconURL": ""
+    }
+  },
+  "embedPropertyOverrides": {
+    "embedTitlePropertyOverride": "",
+    "embedColorPropertyOverride": "",
+    "embedURLPropertyOverride": "",
+    "embedAuthorPropertyOverride": "",
+    "embedDescriptionPropertyOverride": "",
+    "embedThumbnailPropertyOverride": "",
+    "embedFieldsPropertyOverride": "",
+    "embedImagePropertyOverride": "",
+    "embedFooterPropertyOverride": ""
+  }
+}
