@@ -10,6 +10,7 @@ configuration:
   baseUrl: ryany715.github.io/Wrath-of-the-Kaiju
   ignorePatterns:
     - private
+    - copilot
     - 00 - Meta/Templates
     - templates
     - .obsidian
