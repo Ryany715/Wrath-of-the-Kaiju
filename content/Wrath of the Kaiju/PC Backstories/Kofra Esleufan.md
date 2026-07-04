@@ -1,0 +1,1 @@
+The merchant son of a prolific ore and minerals merchant 
