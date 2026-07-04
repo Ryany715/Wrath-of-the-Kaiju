@@ -14,6 +14,9 @@ configuration:
     - 00 - Meta/Templates
     - templates
     - .obsidian
+    - Wrath of the Kaiju/History
+    - Wrath of the Kaiju/Locations
+    - Wrath of the Kaiju/PC Backstories
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

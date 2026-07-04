@@ -36,9 +36,11 @@ The players converged on the nexus of the path westward towards the city of Kiho
 *   [[Fists of Ashara]]: Monks were aided in the fighting off of the Kasha
 ## Locations Visited
 * [[Tofuoka Hills]]: Travel route. 
+* ![[Tofuaoka Hills.png]]
 * [[Tofua Town]]: Site of the Kasha encounter and monastery visit. 
 * [[Fists of Ashura Monastery]]: Location of Monks of Ashura
 * [[Kihoso]]: Destination city, arrived at its torii gate.
+
 ## Items & Loot
 * N/A
 
@@ -46,9 +48,7 @@ The players converged on the nexus of the path westward towards the city of Kiho
 * **The Acidic Advance:** The acidic water in [[Tofua Town]] and aggressive [[Kabuto]] beetles suggest a wider environmental issue 
 * **Arrival at Kihoso:** The party has reached their initial destination, opening up new opportunities.
 ## Unresolved Questions & Cliffhangers
-*   [What are the players still wondering about?]
-*   [What major decision is pending?]
-*   [What immediate threat remains?]
+* N/A
 
 ## DM Notes & Preparation for Next Session
 - After reaching the town of kihoso, they will reach level 2. 

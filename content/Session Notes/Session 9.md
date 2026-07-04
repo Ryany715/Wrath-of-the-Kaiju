@@ -1,15 +1,66 @@
-The party has named themselves the swords of Kihoso. They set out towards the Tree of Life, beginning their trek towards the Tetsumine Basin. Along the way, the Swords of Kihoso discovered a kappa who was seemingly stranded in a small lake in the forest.  Initially attempting to help him. they decided that his personality was less than desirable and instead. Waiting for him to turn his back and begin to lead the party, they ambush him and blow his brains across the concrete. They continued onwards  towards the Tree where they saw the trees begin to thin out, an end to the path in sight. On thier way to the edge of the forest, the swords of Kihoso were ambushed by strange spider like creatures that attempted to consume and seemingly steal away members of the party. unable to escape from the webbing, Tie was eventually felled by one of the creatures, killing and swallowing his body into its husk like shell. 
+---
+type: session
+session_number: 9
+date: ??
+location: "[[Tree of Life]]"
+plot_arc: "[[The Tetsumine Basin]]"
+tags:
+  - session-log
+  - campaign-progress
+---
+## Recap from Last Session
+*   The party defeated Nomi and was rewarded 3000 gold by the heirs of Kirin.
+*   Dr. Doolots briefed the party on rumors of disturbances in the Tetsumine Basin.
 
+## Session Overview
 
-The players proceed towards [[Tree of Life]] taking about 7 days to get there. They will roll twice on the way to the tree.
+The party, now naming themselves the Swords of Kihoso, set out toward the Tree of Life, beginning their trek to the Tetsumine Basin. Along the way, they ambushed and killed a disagreeable kappa stranded in a forest lake, then continued toward the thinning treeline at the forest's edge. There, they were ambushed by strange spider-like creatures that attempted to consume party members, resulting in the death of Tie, who was swallowed into one of the creature's husk-like shells.
 
-The first leg of travel -> they will notice the fungal/gourd nature of Kihoso beginning to thin out to more lush forest. They travel the first stretch is not particularly challenging. The day of the first travel they: 
+## Key Events & Discoveries
 
-1-10:  Come across a small shrine with a statue of a many armed figure atop, scowling in anger. There are a few offerings atop it, gold and a dull knife. 
+### Scene 1: The Party Takes a Name
+*   The party formally named themselves the Swords of Kihoso.
+*   They set out toward the Tree of Life, beginning their journey to the Tetsumine Basin (roughly a 7-day trek, with two rolls made along the way).
 
-This is a shrine to Ashura. A successful DC 17 Investigation check reveals very faded text on the back of the shrine.  "The one who fell. His fury knows no bounds and his rage fuels the warriors soul"
+### Scene 2: The Shrine
+*   The party found a shrine
+*   A successful DC 17 Investigation check revealed faded text on the back of the shrine: "The one who fell. His fury knows no bounds and his rage fuels the warrior's soul."
 
-11-20: Come across a small pond with a Kappa resting on the rock in middle. His name is Fred. He is stuck in this small pond as he is afraid if he ventures too far, his water will dry out. He doesn't know where the closest large body of water is. The large ponds houses some fish, and he is very careful to not over fish it. He will ask the party to respect his pond, and they will have no problems. 
+### Scene 3: Fred the Kappa
+*   The party came across a small pond with a kappa named Fred resting on a rock in the middle.
+*   Fred is stuck in the pond, fearful that venturing too far will cause his water to dry out.
+*   He doesn't know the location of the nearest large body of water.
+*   The pond houses fish that Fred carefully avoids overfishing.
+*   Fred asked the party to respect his pond; they had no problems with this.
+*  They fucking kill him
 
-On the 3rd leg, they will notice 3 Jorgumo Husk on their way to bed who attempt to attack the players as they make camp.
+### Scene 4: The Jorogumo Ambush
+*   On the third leg of travel, the party was ambushed by 3 Jorogumo Husks as they made camp.
+*   The forest's fungal/gourd nature (reminiscent of Kihoso) began thinning into more lush forest as they neared the Tree of Life.
+*   [[PC - Tie]] was caught in webbing and unable to escape, ultimately killed and swallowed into one of the creatures' husk-like shells.
+
+## Player Character Actions & Decisions
+*   **[[PC - Tie]]**: Killed by a Jorogumo Husk during the ambush while making camp; his body was consumed.
+
+## NPCs Encountered
+*   A "hostile" kappa: Ambushed and killed by the party after revealing an undesirable personality.
+*   3 Jorogumo Husks: Spider-like creatures that ambushed the party while making camp, killing Tie.
+
+## Locations Visited
+*   Forest lake: Site of the hostile kappa encounter.
+*   Ashura Shrine: Faded text revealed via Investigation check.
+*   Fred's Pond: Small forest pond home to a kappa and his fish.
+*   Forest campsite: Site of the Jorogumo Husk ambush.
+*   [[Tree of Life]] (approaching): Destination of the current trek.
+
+## Items & Loot
+*   **Used/Lost:**
+    *   [[PC - Tie]] — killed and consumed by a Jorogumo Husk.
+
+## Plot Developments & Revelations
+*   **The Party's New Name:** The group has adopted the name "Swords of Kihoso.".
+*   **Loss of Tie:** The party has lost a member
+## Unresolved Questions & Cliffhangers
+*   What other dangers lie between the party and the Tree of Life?
+*   How will the party recover Tie's remains, if at all?
 

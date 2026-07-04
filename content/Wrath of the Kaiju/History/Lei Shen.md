@@ -16,4 +16,4 @@ He erected the walled city of [[Puyi]], the capital of his empire which lied in 
 
 Once united under his powerful banner, Lei Shen began his hunt of the kaiju. Wielding the power of a Raiju infused into his body, and legions thousands strong, he was a force to be reckoned with. The Thunder King was no fool, he knew some of the kaiju could be placated in his study of historical text, and employed a vast manner of  cunning and clever tactics to reason with and 
 
-![[Pasted image 20250827213531.png]]
+![[Lei Shen.png]]

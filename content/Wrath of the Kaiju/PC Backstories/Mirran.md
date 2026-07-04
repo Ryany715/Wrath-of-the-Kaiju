@@ -31,4 +31,4 @@ Mirran's interest in folklore and tales of long past have uncovered 5 stories of
 1. The Lady of the Lake
 
 
-Mirran's egg hatches a baby cloaker: ![[Pasted image 20260701193754.png]]
+Mirran's egg hatches a baby cloaker: ![[Jethro Big.png]]

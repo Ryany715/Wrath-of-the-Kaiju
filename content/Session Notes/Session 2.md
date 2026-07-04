@@ -1,10 +1,74 @@
-The players arrived in the city of Kihoso, a vibrant town of molded hanging gourds, that seems to be plagued with a water issue. Recent earthquakes seem to be the cause of the underground aquifer that supplies the city with its water to become intensely acidic. The party investigated the city, meeting with the town blacksmith Beltharn Bloodfist. Beltharn detailed some recently strange behavior of the nearby kabuto beetles. He noted that they seem to be building a nest of some kind north of the city. He offered the players a maximum of 150 gold pieces for helping clear out the nest, in addition to teaching them them some of his masterwork recipes. 
+---
+type: session
+session_number: 2
+date: ??
+location: "[[Kihoso]]"
+plot_arc: "[[The hunting of Nomi]]"
+tags:
+  - session-log
+  - campaign-progress
+---
+## Recap from Last Session
+*   [[Session 1]]
 
-whole chitin 25 - 100 gp worth of whole -> plate, 50gp + 50gp others -> splint
-medium pieces 17 gold Breast plate 50 gp medium,
-small pieces 3 gp - studded - 10gp 
+## Session Overview
 
-Beltharn also detailed to the players that recently a black ryujin named Yoshito has gone missing, he was a kabuto trainer in the horn pits. The player made their way to the horn pits, where they met Dr Doolots, a golden dragonborn with strange vials of blueish liquid for hair. She explained the she has re-purposed a device to neutralize the aquifer and believes it may work to neutralize the entire basin. The party offered to help her with this task, help which she graciously accepted. During the conversation, fight after fight waged in the pits below, with Nisuki winning some cash on the side. The party witnessed some astounding feats of combat by a naked duergar named Dallion and a mysterious ronin who sliced the wings from a charging kabuto. The horn pits then opened up the arena to any who dare to challenge a Kabuto for themselves, with a magical prize being given if victorious. The party elected to decline and instead head back to Kihoso inn where they are staying with Bombuku. 
+The players arrived in the city of Kihoso, a vibrant town of molded hanging gourds, that seems to be plagued with a water issue. Recent earthquakes seem to have caused the underground aquifer that supplies the city with water to become intensely acidic. The party investigated the city, met the town blacksmith Beltharn Bloodfist, and learned of a strange nest-building kabuto beetle problem north of the city. They then traveled to the horn pits, meeting Dr. Doolots, who has repurposed a device to neutralize the aquifer. They witnessed several fights in the pits before returning to the Kihoso inn to rest with Bombuku.
 
+## Key Events & Discoveries
 
-- Before the ship with the water shipment arrives the players are sent on a mission to help calm the some of the wild Kabuto on the edge of town. Recent earthquakes have caused them to become strangely aggressive. The players will see one larger Kabuto with scars on it that is constantly fighting with the other males. This alpha kabuto has been seeking out challengers, and has been stirred by Nomi's pheromones. The players will need to neutralize this kabuto by either defeating it in a wrestling match, or killing it outright. The knowledge they will have will depend on if they have visited  the fighting pits yet. The Dr will be at the fighting pits the second night after the water caravan arrives. 
+### Scene 1: Investigating Kihoso & Beltharn Bloodfist
+*   Kihoso is described as a vibrant town of molded hanging gourds.
+*   Recent earthquakes appear to be the cause of the underground aquifer becoming intensely acidic.
+*   The party met the town blacksmith, [[Beltharn Bloodfist]].
+*   Beltharn detailed recent strange, aggressive behavior in nearby kabuto beetles, who seem to be building a nest north of the city.
+*   Beltharn offered the players up to 150 gold pieces to clear out the nest, plus knowledge of some of his masterwork crafting recipes.
+*   **Masterwork recipe notes:**
+    *   Whole chitin: 25–100 gp worth of whole → plate, 50gp + 50gp others → splint
+    *   Medium pieces: 17 gp; Breastplate: 50 gp medium
+    *   Small pieces: 3 gp; Studded: 10 gp
+*   Beltharn also mentioned that a black ryujin named Yoshito, a kabuto trainer at the horn pits, has recently gone missing.
+
+### Scene 2: The Horn Pits & Dr. Doolots
+*   The party traveled to the horn pits and met [[Dr. Doolots]], a golden dragonborn with strange vials of bluish liquid for hair.
+*   ![[Dr Doolots.png]]
+*   Dr. Doolots explained she has repurposed a device to neutralize the aquifer, believing it may work to neutralize the entire basin.
+*   The party offered to help her, which she graciously accepted.
+*   Fights raged in the pits below during the conversation; [[PC - Nisuki]] won some cash on the side.
+*   The party witnessed feats of combat by a naked duergar named Dallion and a mysterious ronin who sliced the wings off a charging kabuto.
+*   The horn pits opened the arena to any challenger willing to face a Kabuto, offering a magical prize for victory.
+*   **Decision:** The party declined to fight and instead returned to the Kihoso inn to stay with Bombuku.
+
+## Player Character Actions & Decisions
+*   **[[PC - Nisuki]]**: Won some cash betting on fights in the horn pits.
+
+## NPCs Encountered
+*   [[Beltharn Bloodfist]]: Town blacksmith; detailed the aggressive kabuto behavior and offered a bounty and crafting knowledge.
+*   [[Dr. Doolots]]: Golden dragonborn met at the horn pits; revealed her device to neutralize the aquifer and asked for the party's help.
+*   Dallion: A naked duergar seen fighting in the horn pits.
+*   A mysterious ronin: Seen slicing the wings from a charging kabuto in the pits.
+*   [[Bombuku]]: Hosting the party at the Kihoso inn.
+
+## Locations Visited
+*   [[Kihoso]]: Explored the city, meeting Beltharn and learning of the aquifer's acidification.
+*   The Horn Pits: Site of Dr. Doolots' introduction and the combat exhibitions.
+*   Kihoso Inn: Where the party is staying with Bombuku.
+
+## Items & Loot
+*   N/A
+
+## Plot Developments & Revelations
+*   **The Acidic Aquifer:** Recent earthquakes have caused Kihoso's underground aquifer to become intensely acidic, threatening the town's water supply.
+*   **The Kabuto Nest:** Aggressive kabuto beetles are building a nest north of the city; Beltharn has offered a bounty to clear it.
+*   **Yoshito's Disappearance:** A black ryujin kabuto trainer named Yoshito has gone missing from the horn pits.
+*   **Dr. Doolots' Device:** She has repurposed a device that may be able to neutralize the entire acidic basin.
+
+## Unresolved Questions & Cliffhangers
+*   What happened to Yoshito?
+*   Will Dr. Doolots' device actually work on the full basin?
+*   What is causing the kabuto nest-building behavior north of the city?
+
+## DM Notes & Preparation for Next Session
+*   Prepare the kabuto nest encounter north of Kihoso.
+*   Bombuku to give the players his basalt bottle for acid collection next session.
+*   Water caravan (Odal) arriving early — prep that thread.

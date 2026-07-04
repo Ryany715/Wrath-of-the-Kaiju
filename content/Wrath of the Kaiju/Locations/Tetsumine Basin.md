@@ -81,7 +81,7 @@ Killing the dodomeki, the players will find 200 gold worth of gold metals in a p
 
 ##### Chapel Hall
 
-A chapel to Dumathoin. ![[Pasted image 20260218185531.png]]
+A chapel to Dumathoin. ![[Iron spire pillars.png]]
 The campsite in the description is long burned out. There is a door along one of the walls in this room that leads to a priests quarters. It is locked. 
 
 DC15 lockpicking check will unlock the door. It is a simple wooden door. 
