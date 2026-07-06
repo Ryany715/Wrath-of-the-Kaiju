@@ -1,14 +1,14 @@
 # Welcome to the Wrath of the Kaiju — Player Wiki
 
-This is the wiki for our D&D game! This is the **player version** of the site — anything from my DM notes has been stripped out, so feel free to poke around and get lost down a rabbit hole or two.
-
+This is the wiki for our D&D game! This is the **player version** of the site (kinda lol).
+![[Wrath Home Page.png|552]]
 ---
 
 ## Start Here
 
 - [[Overview]] — the premise, tone, and how to use this wiki
 
-## 🗡️ Session Recaps
+## Session Recaps
 
 _(Numbering's a little funky in places — go by date if a number seems out of order.)_
 
@@ -26,7 +26,7 @@ _(Numbering's a little funky in places — go by date if a number seems out of o
 - [[Session 12 - Battle with Raiko!]]
 - [[Session 13 - Jethro's End]]
 
-## 🌏 The World
+## The World
 
 - [[Locations]] — hub page for everywhere the party has been
     - [[Kihoso]]
@@ -35,7 +35,7 @@ _(Numbering's a little funky in places — go by date if a number seems out of o
 - [[History]] — the deeper past of this world
     - [[Gods and Pantheon]]
 
-## 🧑‍🤝‍🧑 People of the Realm
+## People of the Realm
 
 - [[NPCs]] — everyone the party has met along the way
 - [[PC Backstories]] — the party's own histories
@@ -47,7 +47,7 @@ _(Numbering's a little funky in places — go by date if a number seems out of o
     - [[Mon]]
     - [[Dr. Frank]]
 
-## 🧭 Additional Resources
+##  Additional Resources
 
 - [[Maps]] — regional and city maps
 - [[Loot & Treasure]] — notable items the party has found

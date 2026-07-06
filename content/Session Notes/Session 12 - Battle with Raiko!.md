@@ -15,7 +15,7 @@ tags:
 ## Session Overview
 
 The party returned to the Shinihai Flats, repairing and upgrading their gear with their newfound wealth, and met again with Captain Totsuka and Bologar, who explained his mission to the Ironspire to confront Raiko, a kaiju he believes responsible for the storm. 
-![[Bologar.png]]
+![[Session Notes/Pictures/Bologar.png]]
 After a day's delay, the party ascended the mountain toward the Ironspire, weathering storm elementals and a costly mishap with an ancient Wyrmrib crossbow. At the spire's peak, they stole an orb from the monks, provoking a battle with Raiko the Storm Lord, whom they subdued. Returning to the Shinihai Flats, the party was paid by Captain Totsuka, encountered Chuji Firestorm and her ties to the Rising Blossoms, and were drawn into a deadly betrayal that ended with the murder of Kofra by Nishikibe, forcing the party to flee town toward Puyi.
 
 ## Key Events & Discoveries
@@ -48,14 +48,14 @@ After a day's delay, the party ascended the mountain toward the Ironspire, weath
 *   Chuji declined the buyout offer and later asked Nisuke to kill Chuji (Nishikibe) for 50,000 gold.
 *   Nisuke instead warned Chuji about the deal; Chuji suggested gutting Nishikibe themselves.
 *   Muchu and Mirran deepened their bond late into the night.
-![[Chuji Firestorm.png]]
+![[Session Notes/Pictures/Chuji Firestorm.png]]
 ### Scene 5: Betrayal & Kofra's Death
 *   The party declined to take either side of the deal; Nisuke chose to sleep in the woods to avoid trouble with Nishikibe.
 *   While on watch, Kofra investigated a noise down the hall and "ding-dong ditched" a door.
 *   When he returned to knock again, Nishikibe opened the door, struck him down with a cone of cold and shocking grasp combo, dragged him inside, and slit his throat.
 *   The rest of the Swords of Kihoso armored up and investigated, finding Kofra's corpse stuffed in a trunk alongside his chest armor.
 *   The party de-escalated the situation, retrieved Kofra's body and armor, and fled town toward Puyi, roughly a week's travel away.
-![[Nishikibe.png]]
+![[Session Notes/Pictures/Nishikibe.png]]
 ## Player Character Actions & Decisions
 *   **[[PC - Muchu]]**: Ended the previous session on cryptic words; deepened his bond with Mirran late in the night.
 *   **[[PC - Dr. Frank]]**: Attempted to free the Wyrmrib crossbow, triggering an explosive trap.

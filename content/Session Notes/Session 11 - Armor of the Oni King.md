@@ -22,7 +22,7 @@ The Swords of Kihoso arrived in the ringlander town within the Tetsumine Basin, 
 ### Scene 1: Arrival in the Ringlander Town
 *   The party arrived in the ringlander town within the Tetsumine Basin.
 *   They met Captain Totsuka, who asked for aid investigating monks missing after sailing for the Ironspire.
-![[Captain Totsuka.png]]
+![[Session Notes/Pictures/Captain Totsuka.png]]
 *   Totsuka warned the party of the incoming Rising Blossoms and the Silk Purse.
 *   The party sought the patronage of Kentucky Greg, haggling over the price of a treasure map to Copper Spire #13.
 *   They boarded Bo's Big Boats and set out for the Copper Spire.
