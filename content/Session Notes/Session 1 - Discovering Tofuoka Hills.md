@@ -3,7 +3,7 @@ type: session
 session_number: 1
 date: ??
 location: "[[Kihoso]]"
-plot_arc: "[[The hunting of Nomi]]"
+plot_arc: "[[Discovering Kihoso]]"
 tags:
   - session-log
   - campaign-progress

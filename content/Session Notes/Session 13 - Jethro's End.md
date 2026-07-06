@@ -3,7 +3,7 @@ type: session
 session_number: 13
 date: ??
 location: "[[Puyi]]"
-plot_arc: "[[The Tetsumine Basin]]"
+plot_arc: "[[Portents in Puyi]]"
 tags:
   - session-log
   - campaign-progress

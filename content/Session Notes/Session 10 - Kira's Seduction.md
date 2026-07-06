@@ -3,7 +3,7 @@ type: session
 session_number: 10
 date: ??
 location: "[[Tree of Life]]"
-plot_arc: "[[The Tetsumine Basin]]"
+plot_arc: "[[Raiko's Rage]]"
 tags:
   - session-log
   - campaign-progress

@@ -1,3 +1,448 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
+// put your custom CSS here!
+
+// =============================================================
+// RYOKO'S GUIDE TO THE YOKAI REALMS — "Bestiary Folio" theme
+// Modeled on the kaiju-sourcebook reference: aged parchment pages,
+// oxblood ink headers, gilt rules, and framed stat-block cards.
+// =============================================================
+// -------------------------------------------------------------
+// Palette — overrides Quartz's generated CSS custom properties.
+// Light mode = daylit temple archive. Dark mode = ink-and-lantern.
+// -------------------------------------------------------------
+:root[saved-theme="light"] {
+  --light: #ede2c8; // page background, aged parchment
+  --lightgray: #d9c9a3; // card / table stripe background
+  --gray: #a89066; // muted borders, rules
+  --darkgray: #4a2e22; // secondary ink
+  --dark: #2b1c14; // primary ink
+  --secondary: #7a2420; // oxblood — headers, accents
+  --tertiary: #a8762c; // gilt gold — dividers, highlights
+  --highlight: rgba(122, 36, 32, 0.08);
+  --textHighlight: rgba(168, 118, 44, 0.35);
+}
+
+:root[saved-theme="dark"] {
+  --light: #1c1610; // page background, lacquered night
+  --lightgray: #2a2019; // card background
+  --gray: #6b5540; // muted borders, rules
+  --darkgray: #d8c9a8; // secondary ink (parchment tone)
+  --dark: #ede2c8; // primary ink (parchment tone)
+  --secondary: #c9695a; // oxblood, brightened for contrast
+  --tertiary: #d4a94a; // gilt gold, brightened
+  --highlight: rgba(201, 105, 90, 0.1);
+  --textHighlight: rgba(212, 169, 74, 0.28);
+}
+
+// -------------------------------------------------------------
+// Base type
+// -------------------------------------------------------------
+body {
+  font-family: "EB Garamond", "Noto Serif", serif;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  color: var(--dark);
+  background-color: var(--light);
+  background-image:
+    radial-gradient(ellipse at top left, var(--highlight) 0%, transparent 55%),
+    radial-gradient(ellipse at bottom right, var(--highlight) 0%, transparent 55%);
+  background-attachment: fixed;
+}
+
+::selection {
+  background-color: var(--textHighlight);
+  color: var(--dark);
+}
+
+// Subtle grain overlay so the page reads as paper, not plastic.
+.page {
+  position: relative;
+
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    opacity: 0.05;
+    mix-blend-mode: multiply;
+    background-image: repeating-linear-gradient(
+        0deg,
+        var(--darkgray) 0px,
+        transparent 1px,
+        transparent 2px
+      ),
+      repeating-linear-gradient(
+        90deg,
+        var(--darkgray) 0px,
+        transparent 1px,
+        transparent 2px
+      );
+    background-size: 3px 3px;
+  }
+}
+
+// -------------------------------------------------------------
+// Headings — small-capped, oxblood, carved-title feel
+// -------------------------------------------------------------
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Cinzel", "Cinzel Decorative", serif;
+  color: var(--secondary);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: none;
+}
+
+h1 {
+  font-size: 2.1rem;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  padding-bottom: 0.4rem;
+  border-bottom: 3px double var(--tertiary);
+  margin-bottom: 1.4rem;
+}
+
+h2 {
+  font-size: 1.55rem;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid var(--gray);
+  padding-bottom: 0.25rem;
+  margin-top: 2.2rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-variant: small-caps;
+  color: var(--darkgray);
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1.02rem;
+  color: var(--darkgray);
+  font-style: italic;
+}
+
+// A small torii-inspired mark before top-level titles — the
+// page's one recurring "signature" motif, used sparingly.
+article > h1:first-of-type::before {
+  content: "⛩";
+  display: inline-block;
+  margin-right: 0.5rem;
+  color: var(--tertiary);
+  font-style: normal;
+  transform: translateY(2px);
+}
+
+// -------------------------------------------------------------
+// Links
+// -------------------------------------------------------------
+a {
+  color: var(--secondary);
+  text-decoration-color: var(--tertiary);
+  text-underline-offset: 3px;
+
+  &:hover {
+    color: var(--tertiary);
+    text-decoration-color: var(--secondary);
+  }
+}
+
+// -------------------------------------------------------------
+// Horizontal rule — gilt divider with a central diamond, in
+// place of a plain line.
+// -------------------------------------------------------------
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--tertiary) 15%,
+    var(--tertiary) 85%,
+    transparent
+  );
+  margin: 2.5rem 0;
+  position: relative;
+
+  &::after {
+    content: "◆";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--light);
+    color: var(--tertiary);
+    padding: 0 0.6rem;
+    font-size: 0.7rem;
+  }
+}
+
+// -------------------------------------------------------------
+// Blockquotes & callouts styled as bestiary "stat blocks" —
+// framed cards with an oxblood rule and corner brackets, the
+// same family of card seen throughout the reference sourcebook.
+// -------------------------------------------------------------
+blockquote,
+.callout {
+  position: relative;
+  background-color: var(--lightgray);
+  border: 1px solid var(--gray);
+  border-left: 5px solid var(--secondary);
+  border-radius: 2px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 6px rgba(43, 28, 20, 0.15);
+
+  // corner brackets, evoking the folio's framed panels
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-color: var(--tertiary);
+    border-style: solid;
+    opacity: 0.85;
+  }
+
+  &::before {
+    top: -1px;
+    right: -1px;
+    border-width: 2px 2px 0 0;
+  }
+
+  &::after {
+    bottom: -1px;
+    right: -1px;
+    border-width: 0 2px 2px 0;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.callout {
+  --callout-icon-color: var(--secondary);
+
+  .callout-title {
+    font-family: "Cinzel", serif;
+    font-weight: 600;
+    color: var(--secondary);
+    font-variant: small-caps;
+    letter-spacing: 0.03em;
+  }
+}
+
+// Bold run-in labels inside stat blocks (e.g. "**Multiattack.**")
+// read like the reference's ability entries.
+blockquote strong:first-child,
+.callout strong:first-child {
+  color: var(--secondary);
+  font-style: italic;
+}
+
+// -------------------------------------------------------------
+// Tables — dark oxblood header row, parchment stripes, the
+// vulnerable-areas/behaviors table look from the reference.
+// -------------------------------------------------------------
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  box-shadow: 0 2px 6px rgba(43, 28, 20, 0.12);
+
+  thead tr {
+    background-color: var(--secondary);
+
+    th {
+      color: var(--light);
+      font-family: "Cinzel", serif;
+      font-variant: small-caps;
+      letter-spacing: 0.03em;
+      text-align: left;
+      padding: 0.55rem 0.8rem;
+      border: none;
+    }
+  }
+
+  tbody {
+    tr {
+      background-color: var(--light);
+
+      &:nth-child(even) {
+        background-color: var(--lightgray);
+      }
+    }
+
+    td {
+      padding: 0.5rem 0.8rem;
+      border-top: 1px solid var(--gray);
+      border-bottom: none;
+    }
+  }
+}
+
+// -------------------------------------------------------------
+// Code — kept legible but tonally consistent (ink-on-parchment,
+// not a jarring switch to a default IDE theme).
+// -------------------------------------------------------------
+code {
+  font-family: "JetBrains Mono", monospace;
+  background-color: var(--lightgray);
+  color: var(--darkgray);
+  border: 1px solid var(--gray);
+  border-radius: 2px;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.85em;
+}
+
+pre {
+  background-color: var(--lightgray);
+  border: 1px solid var(--gray);
+  border-left: 3px solid var(--secondary);
+  border-radius: 2px;
+  padding: 1rem;
+
+  code {
+    background: none;
+    border: none;
+    padding: 0;
+  }
+}
+
+// -------------------------------------------------------------
+// Article frame — faint corner brackets on the whole page,
+// echoing the folio's bordered layout without a heavy box.
+// -------------------------------------------------------------
+article {
+  position: relative;
+  padding: 1rem 0.5rem;
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    border-color: var(--tertiary);
+    border-style: solid;
+    opacity: 0.6;
+    pointer-events: none;
+  }
+
+  &::before {
+    top: 0;
+    left: -0.5rem;
+    border-width: 2px 0 0 2px;
+  }
+
+  &::after {
+    bottom: 0;
+    right: -0.5rem;
+    border-width: 0 2px 2px 0;
+  }
+}
+
+// -------------------------------------------------------------
+// Sidebar & table of contents — quiet parchment tint, gilt
+// active-state indicator instead of a default blue highlight.
+// -------------------------------------------------------------
+.sidebar {
+  background-color: var(--light);
+  border-color: var(--gray);
+}
+
+.toc {
+  background-color: var(--lightgray);
+  border: 1px solid var(--gray);
+  border-radius: 2px;
+
+  .toc-title {
+    font-family: "Cinzel", serif;
+    font-variant: small-caps;
+    color: var(--secondary);
+  }
+
+  a.active {
+    color: var(--secondary);
+    font-weight: 600;
+  }
+}
+
+// -------------------------------------------------------------
+// Tags — small gilt-bordered pills instead of default chips
+// -------------------------------------------------------------
+.tags a,
+.tag-link {
+  font-family: "Cinzel", serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+  color: var(--secondary);
+  background-color: var(--lightgray);
+  border: 1px solid var(--tertiary);
+  border-radius: 999px;
+  padding: 0.15rem 0.7rem;
+}
+
+// -------------------------------------------------------------
+// Scrollbar — thin gilt-on-parchment, matches the theme instead
+// of the OS default.
+// -------------------------------------------------------------
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray);
+  border-radius: 5px;
+
+  &:hover {
+    background: var(--tertiary);
+  }
+}
+
+// -------------------------------------------------------------
+// Motion & accessibility
+// -------------------------------------------------------------
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+// -------------------------------------------------------------
+// Small screens — ease off the decorative corner brackets so
+// they don't collide with narrower margins.
+// -------------------------------------------------------------
+@media (max-width: 600px) {
+  article::before,
+  article::after {
+    display: none;
+  }
+
+  h1 {
+    font-size: 1.7rem;
+  }
+}

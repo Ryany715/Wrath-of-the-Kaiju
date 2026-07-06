@@ -3,13 +3,13 @@ type: session
 session_number: 2
 date: ??
 location: "[[Kihoso]]"
-plot_arc: "[[The hunting of Nomi]]"
+plot_arc: "[[Discovering Kihoso]]"
 tags:
   - session-log
   - campaign-progress
 ---
 ## Recap from Last Session
-*   [[Session 1]]
+*   [[Session 1 - Discovering Tofuoka Hills]]
 
 ## Session Overview
 
