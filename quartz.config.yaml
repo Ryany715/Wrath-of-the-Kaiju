@@ -15,6 +15,7 @@ configuration:
     - templates
     - .obsidian
     - Wrath of the Kaiju/History
+    - Wrath of the Kaiju/Assets
     - Wrath of the Kaiju/Locations
     - Wrath of the Kaiju/PC Backstories
   theme:

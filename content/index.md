@@ -28,8 +28,9 @@ _(Numbering's a little funky in places — go by date if a number seems out of o
 
 ## The World
 
-- [[Locations]] — hub page for everywhere the party has been
+- [[Wrath of the Kaiju/Locations/]] — hub page for everywhere the party has been
     - [[Kihoso]]
+    - [[Tetsumine Basin]]
     - [[Puyi]]
 - [[Factions]] — the powers, guilds, and organizations at play
 - [[History]] — the deeper past of this world
@@ -37,8 +38,8 @@ _(Numbering's a little funky in places — go by date if a number seems out of o
 
 ## People of the Realm
 
-- [[NPCs]] — everyone the party has met along the way
-- [[PC Backstories]] — the party's own histories
+- [[Wrath of the Kaiju/NPCs/]] — everyone the party has met along the way
+- PC Backstories — the party's own histories
     - [[Mirran]]
     - [[Nisuki]]
     - [[Muchu]]
