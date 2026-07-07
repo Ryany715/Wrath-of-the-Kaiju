@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 10
-date: ??
-location: "[[Tree of Life]]"
-plot_arc: "[[Raiko's Rage]]"
+location: "[[Wrath of the Kaiju/Locations/Tofuoka Hills/Tree of Life]]"
+plot_arc: Raiko's Rage
 tags:
   - session-log
   - campaign-progress
@@ -19,7 +18,7 @@ The Swords of Kihoso dragged Tie's corpse to the Tree of Life, a massive oak spa
 ## Key Events & Discoveries
 
 ### Scene 1: Arrival at the Tree of Life & Meeting Kira
-*   The party arrived at the [[Tree of Life]], a massive oak spanning a graveyard at its base, dragging Tie's corpse with them.
+*   The party arrived at the [[Wrath of the Kaiju/Locations/Tofuoka Hills/Tree of Life]], a massive oak spanning a graveyard at its base, dragging Tie's corpse with them.
 *   They found the graveyard tended by a beautiful young woman named Kira, who welcomed them warmly.
 *   Kira introduced them to her other guests: a doctor and his traveling companion.
 *   The party shared a hearty meal and told tales around the fire before retiring for the night.
@@ -42,7 +41,7 @@ The Swords of Kihoso dragged Tie's corpse to the Tree of Life, a massive oak spa
 *   They burned the tree behind them, along with the Nomi chitin and Tie's corpse.
 *   Bonds within the party shifted — some strengthening, others weakening — along the road.
 *   The party encountered a new Isetsu, a crab person named Chris Tacian.
-*   They eventually reached the edge of the [[Tetsumine Basin]], looking out over the rolling storm at its center.
+*   They eventually reached the edge of the [[Wrath of the Kaiju/Locations/Tetsumine Basin/Tetsumine Basin]], looking out over the rolling storm at its center.
 
 ## Player Character Actions & Decisions
 *   **[[PC - Muchu]]**: Lured into Kira's basement; ultimately turned on her, setting a fire and shooting his way out; executed Crabagail under Kira's charm.
@@ -56,8 +55,8 @@ The Swords of Kihoso dragged Tie's corpse to the Tree of Life, a massive oak spa
 *   Chris Tacian: A crab person Isetsu encountered on the road to the Tetsumine Basin.
 
 ## Locations Visited
-*   [[Tree of Life]]: Massive oak tree over a graveyard; site of Kira's home and the climactic battle.
-*   [[Tetsumine Basin]]: Reached the edge, overlooking a rolling storm at its center.
+*   [[Wrath of the Kaiju/Locations/Tofuoka Hills/Tree of Life]]: Massive oak tree over a graveyard; site of Kira's home and the climactic battle.
+*   [[Wrath of the Kaiju/Locations/Tetsumine Basin/Tetsumine Basin]]: Reached the edge, overlooking a rolling storm at its center.
 
 ## Items & Loot
 *   **Used/Lost:**

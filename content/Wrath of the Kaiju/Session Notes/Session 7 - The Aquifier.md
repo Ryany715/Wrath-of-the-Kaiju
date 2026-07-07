@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 7
-date: ??
-location: "[[Kihoso]]"
-plot_arc: "[[The hunting of Nomi]]"
+location: "[[Wrath of the Kaiju/Locations/Tofuoka Hills/Kihoso]]"
+plot_arc: The hunting of Nomi
 tags:
   - session-log
   - campaign-progress

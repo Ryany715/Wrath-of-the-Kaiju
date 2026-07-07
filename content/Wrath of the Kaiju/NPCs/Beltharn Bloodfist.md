@@ -3,14 +3,15 @@ type: npc
 name: Beltharn Bloodfist
 role: Blacksmith
 faction:
-location: "[[Kihoso]]"
+location: "[[Wrath of the Kaiju/Locations/Tofuoka Hills/Kihoso]]"
 race:
 gender: Male
 alignment:
 status: Alive
 age:
 residence: Kihoso
-tags: [npc]
+tags:
+  - npc
 aliases: []
 ---
 # Beltharn Bloodfist

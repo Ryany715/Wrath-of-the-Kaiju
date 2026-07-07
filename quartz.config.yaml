@@ -11,13 +11,14 @@ configuration:
   ignorePatterns:
     - private
     - copilot
-    - 00 - Meta/Templates
     - templates
     - .obsidian
+    - Pictures
     - Wrath of the Kaiju/History
     - Wrath of the Kaiju/Assets
     - Wrath of the Kaiju/Locations
     - Wrath of the Kaiju/PC Backstories
+    - Wrath of the Kaiju/Templates
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

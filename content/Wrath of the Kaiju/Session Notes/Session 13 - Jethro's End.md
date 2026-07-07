@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 13
-date: ??
-location: "[[Puyi]]"
-plot_arc: "[[Portents in Puyi]]"
+location: [[Puyi]]
+plot_arc: Portents in Puyi
 tags:
   - session-log
   - campaign-progress
@@ -19,17 +18,17 @@ The Swords of Kihoso traveled across the Thunder Plains toward the city of Puyi.
 ## Key Events & Discoveries
 
 ### Scene 1: Crossing the Thunder Plains
-*   The Swords of Kihoso traveled across the [[Puyi#Thunder Plains]], about a week's journey to the city of Puyi.
+*   The Swords of Kihoso traveled across the [[Wrath of the Kaiju/Locations/Puyi/Puyi#Thunder Plains]], about a week's journey to the city of Puyi.
 ![[Thunder Plains.png]]
 *   [[PC - Muchu]] led the party; they encountered a large nomadic warrior party in the early hours of the night and used the cover of darkness to pass unnoticed.
-*   The next day, the party met members of the [[Puyi#Pegasus Guard]], specifically Captain Geo, 7th Plume of the 7th Battalion of the Guard.
+*   The next day, the party met members of the [[Wrath of the Kaiju/Locations/Puyi/Puyi#Pegasus Guard]], specifically Captain Geo, 7th Plume of the 7th Battalion of the Guard.
 *   Geo warned the party of a roaming warlord named Volsung Fa, a massive orc in tank-like, iron-spiked armor, whose uniting of the tribes concerns the city.
 *   Geo also mentioned two notable locations: the Evernight Gate, where mangled traveler remains have been found, and Thunderbird Point, home to massive elemental birds a few miles outside town.
 
 ### Scene 2: Jethro's Hatching
 *   That night, Jethro hatched from Mirran's egg, revealing a stingray-esque, skin-flapped creature.
 *   Jethro was killed in cold blood, leaving [[PC - Mirran]] in shock.
-*   ![[Jethro.png]]
+![[Jethro.png]]
 
 ### Scene 3: Arrival in Puyi & Mildred's Shop
 *   The party continued into the [[City of Puyi]].
@@ -72,7 +71,7 @@ The Swords of Kihoso traveled across the Thunder Plains toward the city of Puyi.
 *   Dean Carbone: Detailed research on a self-healing material and a separate project capable of fusing two entities into one.
 
 ## Locations Visited
-*   [[Puyi#Thunder Plains]]: Site of the week-long journey and the nomadic warrior encounter.
+*   [[Wrath of the Kaiju/Locations/Puyi/Puyi#Thunder Plains]]: Site of the week-long journey and the nomadic warrior encounter.
 *   [[City of Puyi]]: Arrival city; site of Mildred's shop, the Dockyards, and the College of Hanabi.
 *   The Moor of Merchants: Location of Mildred's magic shop.
 *   The Dockyards / The Barnacle: Tavern visited by part of the group.

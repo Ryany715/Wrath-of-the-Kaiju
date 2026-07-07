@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 9
-date: ??
-location: "[[Tree of Life]]"
-plot_arc: "[[Raiko's Rage]]"
+location: [[Tree of Life]]
+plot_arc: Raiko's Rage
 tags:
   - session-log
   - campaign-progress
@@ -51,7 +50,7 @@ The party, now naming themselves the Swords of Kihoso, set out toward the Tree o
 *   Ashura Shrine: Faded text revealed via Investigation check.
 *   Fred's Pond: Small forest pond home to a kappa and his fish.
 *   Forest campsite: Site of the Jorogumo Husk ambush.
-*   [[Tree of Life]] (approaching): Destination of the current trek.
+*   [[Wrath of the Kaiju/Locations/Tofuoka Hills/Tree of Life]] (approaching): Destination of the current trek.
 
 ## Items & Loot
 *   **Used/Lost:**

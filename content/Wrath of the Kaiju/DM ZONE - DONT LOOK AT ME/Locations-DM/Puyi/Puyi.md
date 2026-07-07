@@ -1,18 +1,3 @@
-```leaflet
-id: leaflet-map
-image: [[Map of Puyi.jpg]]
-height: 750px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 10
-unit: meters
-scale: 1
-marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: false
-```
-
 The primary metropolitan center of Shen Ji, Puyi serves as the hub of trade and culture in the realm. Puyi is walled city, erected by the last great emperor of Shen Ji, [[Lei Shen]]. The city now serves as the the nexus for political and economic production, with an outlet to the sea along the Imini River, fed from the Kitikami Mountains. 
 
 The city of Puyi was originally founded during lei Shen's rule and served as the "Rome" of his rule. The city was used to establish a cultural hub and served as the major nexus point for the gathering of the armies under his rule. As such the original ancient city was surrounded by large walls and borders the Imini river which runs both through and aside the city. From here Lei shen built the docks that allowed for ship building that later defined the northern coast, the umigiri coast as the ships left their inland post. 

@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 11
-date: ??
-location: "[[Tetsumine Basin]]"
-plot_arc: "[[Raiko's Rage]]"
+location: [[Tetsumine Basin]]
+plot_arc: Raiko's Rage
 tags:
   - session-log
   - campaign-progress
@@ -22,7 +21,7 @@ The Swords of Kihoso arrived in the ringlander town within the Tetsumine Basin, 
 ### Scene 1: Arrival in the Ringlander Town
 *   The party arrived in the ringlander town within the Tetsumine Basin.
 *   They met Captain Totsuka, who asked for aid investigating monks missing after sailing for the Ironspire.
-![[Session Notes/Pictures/Captain Totsuka.png]]
+![[Wrath of the Kaiju/Session Notes/Pictures/Captain Totsuka.png]]
 *   Totsuka warned the party of the incoming Rising Blossoms and the Silk Purse.
 *   The party sought the patronage of Kentucky Greg, haggling over the price of a treasure map to Copper Spire #13.
 *   They boarded Bo's Big Boats and set out for the Copper Spire.

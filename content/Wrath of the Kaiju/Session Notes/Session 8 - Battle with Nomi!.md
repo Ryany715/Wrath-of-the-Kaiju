@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 8
-date: ??
-location: "[[Kihoso]]"
-plot_arc: "[[The hunting of Nomi]]"
+location: [[Kihoso]]
+plot_arc: The hunting of Nomi
 tags:
   - session-log
   - campaign-progress
@@ -43,7 +42,7 @@ The players harvested what they could from Nomi's corpse before the temple began
 
 ## Locations Visited
 *   Temple of the Golden Rain: Site of the corpse harvesting and escape from swarming kabuto.
-*   [[Kihoso]]: Return to town for Ryoko's chronomancy and the town's reward.
+*   [[Wrath of the Kaiju/Locations/Tofuoka Hills/Kihoso]]: Return to town for Ryoko's chronomancy and the town's reward.
 *   Tetsumine Basin (mentioned): Rocky, ore-rich basin to the southeast, rumored site of new disturbances.
 
 ## Items & Loot

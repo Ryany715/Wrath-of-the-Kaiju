@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 5
-date: ??
-location: "[[Kihoso]]"
-plot_arc: "[[The hunting of Nomi]]"
+location: [[Kihoso]]
+plot_arc: The hunting of Nomi
 tags:
   - session-log
   - campaign-progress

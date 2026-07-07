@@ -3,14 +3,15 @@ type: npc
 name: Bo
 role: Boat captain
 faction:
-location: "[[Tetsumine Basin]]"
+location: "[[Wrath of the Kaiju/Locations/Tetsumine Basin/Tetsumine Basin]]"
 race:
 gender: Male
 alignment:
 status: Alive
 age:
 residence:
-tags: [npc]
+tags:
+  - npc
 aliases: []
 ---
 # Bo

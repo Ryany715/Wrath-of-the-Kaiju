@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 1
-date: ??
-location: "[[Kihoso]]"
-plot_arc: "[[Discovering Kihoso]]"
+location: [[Kihoso]]
+plot_arc: Discovering Kihoso
 tags:
   - session-log
   - campaign-progress
@@ -38,8 +37,8 @@ The players converged on the nexus of the path westward towards the city of Kiho
 * [[Tofuoka Hills]]: Travel route. 
 * ![[Tofuaoka Hills.png]]
 * [[Tofua Town]]: Site of the Kasha encounter and monastery visit. 
-* [[Fists of Ashura Monastery]]: Location of Monks of Ashura
-* [[Kihoso]]: Destination city, arrived at its torii gate.
+* [[Wrath of the Kaiju/Locations/Tofuoka Hills/Fists of Ashura Monastery]]: Location of Monks of Ashura
+* [[Wrath of the Kaiju/Locations/Tofuoka Hills/Kihoso]]: Destination city, arrived at its torii gate.
 
 ## Items & Loot
 * N/A

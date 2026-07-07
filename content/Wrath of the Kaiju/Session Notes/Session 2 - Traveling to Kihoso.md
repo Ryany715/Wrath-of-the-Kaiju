@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 2
-date: ??
-location: "[[Kihoso]]"
-plot_arc: "[[Discovering Kihoso]]"
+location: [[Kihoso]]
+plot_arc: Discovering Kihoso
 tags:
   - session-log
   - campaign-progress
@@ -50,7 +49,7 @@ The players arrived in the city of Kihoso, a vibrant town of molded hanging gour
 *   [[Bombuku]]: Hosting the party at the Kihoso inn.
 
 ## Locations Visited
-*   [[Kihoso]]: Explored the city, meeting Beltharn and learning of the aquifer's acidification.
+*   [[Wrath of the Kaiju/Locations/Tofuoka Hills/Kihoso]]: Explored the city, meeting Beltharn and learning of the aquifer's acidification.
 *   The Horn Pits: Site of Dr. Doolots' introduction and the combat exhibitions.
 *   Kihoso Inn: Where the party is staying with Bombuku.
 

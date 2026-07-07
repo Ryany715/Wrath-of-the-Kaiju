@@ -161,7 +161,7 @@ The water caravan will not arrive until the day after the players arrive is Kiho
 
 In the center of town is a caravan arthropod with huge jugs of clean looking water in it. There is a Silk Purse representative there touting "Fresssssh water, come and get your Fressssh water" with a a rather large line leading up to the caravan. 
 
-The silk purse representative is ryokido lion turtle named Odal(brooklyn accent). Odal is selling water on behave of "Turtle Park" a company who boats over water from the city of [[Puyi]] and sells it at a massive markup to the people of Kihoso. Odal details he is looking for someone and will ask they players if they have seen "a black scaled ryujin". He will offer them payment and the adventure hook for the silk purse. People will gladly talk on how the prices of water have gone up since last week, and they feel they will never recover. 
+The silk purse representative is ryokido lion turtle named Odal(brooklyn accent). Odal is selling water on behave of "Turtle Park" a company who boats over water from the city of [[Wrath of the Kaiju/Locations/Puyi/Puyi]] and sells it at a massive markup to the people of Kihoso. Odal details he is looking for someone and will ask they players if they have seen "a black scaled ryujin". He will offer them payment and the adventure hook for the silk purse. People will gladly talk on how the prices of water have gone up since last week, and they feel they will never recover. 
 
 Water price day they arrive: 1 water skin(1 gallon) for 1 gold 
 

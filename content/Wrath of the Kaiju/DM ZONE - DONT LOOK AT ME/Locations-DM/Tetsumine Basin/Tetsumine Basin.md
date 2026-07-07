@@ -13,7 +13,7 @@ The primary area that the ringlanders inhabit the flats are a lush riverbed fed 
 
 ## Bo's Big Boat
 
-This small wooden shop wooden shop is attached to rather large dock at which sits a ~15 foot long wooden longboat. The shop is home to [[Wrath of the Kaiju/Locations/Tetsumine Basin/Tetsumine Basin#Bo]], who owns and operates the boat shop, managing shipment of wood and livestock to the spire folk and the trade of gold, jewels and jewelry back to the ring landers. The boat shop is where the party can first meet Bologar a brash Enkoh. Bologar is seeking passage towards the Iron Spire where he believes he can pay homage to Raiko as the storm heralds his coming. 
+This small wooden shop wooden shop is attached to rather large dock at which sits a ~15 foot long wooden longboat. The shop is home to [[Wrath of the Kaiju/DM ZONE - DONT LOOK AT ME/Locations-DM/Tetsumine Basin/Tetsumine Basin#Bo]], who owns and operates the boat shop, managing shipment of wood and livestock to the spire folk and the trade of gold, jewels and jewelry back to the ring landers. The boat shop is where the party can first meet Bologar a brash Enkoh. Bologar is seeking passage towards the Iron Spire where he believes he can pay homage to Raiko as the storm heralds his coming. 
 
 Johns jewelers
 

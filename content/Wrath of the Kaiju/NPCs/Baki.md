@@ -21,7 +21,7 @@ aliases: []
 *   **Mannerisms:** Spoke to [[PC - Mon]] late at night, begging to be "fed blood." Places into the Axe by [[Muchu-Nata]]
 
 ## Background
-Baki was found possessing a strange golden armband found in the [[Temple of Golden Rain]] during the battle with Nomi. He was originally in possession of Muchu-Nata, being transferred to his gun, and then eventually into the axe of Mon at the behest of Muchu. 
+Baki was found possessing a strange golden armband found in the [[Wrath of the Kaiju/Locations/Tofuoka Hills/Temple of Golden Rain]] during the battle with Nomi. He was originally in possession of Muchu-Nata, being transferred to his gun, and then eventually into the axe of Mon at the behest of Muchu. 
 
 ## Motivations & Goals
 ?? Blood ??

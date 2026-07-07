@@ -1,4 +1,4 @@
-1# Welcome to the Wrath of the Kaiju — Player Wiki
+# Welcome to the Wrath of the Kaiju — Player Wiki
 
 This is the wiki for our D&D game! This is the **player version** of the site (kinda lol).
 ![[Wrath Home Page.png|552]]
@@ -29,9 +29,9 @@ _(Numbering's a little funky in places — go by date if a number seems out of o
 ## The World
 
 - [[Wrath of the Kaiju/Locations/]] — hub page for everywhere the party has been
-    - [[Kihoso]]
-    - [[Tetsumine Basin]]
-    - [[Puyi]]
+    - [[Wrath of the Kaiju/Locations/Tofuoka Hills/Kihoso]]
+    - [[Wrath of the Kaiju/Locations/Tetsumine Basin/Tetsumine Basin]]
+    - [[Wrath of the Kaiju/Locations/Puyi/Puyi]]
 - [[Factions]] — the powers, guilds, and organizations at play
 - [[History]] — the deeper past of this world
     - [[Gods and Pantheon]]

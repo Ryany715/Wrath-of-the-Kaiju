@@ -28,4 +28,4 @@ A massive iron bodied dragon kaiju who attacked the Hulking Enkoh in the Kitikam
 A Kaiju of direct opposition to the Raiju, the Iron Wyrm's are at odds with the lightening wielding tigers. 
 
 
-![[WORLD MAP.jpeg]]
+![[Wrath of the Kaiju/Pictures/WORLD MAP.jpeg]]

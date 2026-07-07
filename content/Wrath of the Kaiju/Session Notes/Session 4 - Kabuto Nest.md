@@ -1,9 +1,8 @@
 ---
 type: session
 session_number: 4
-date: ??
-location: "[[Kihoso]]"
-plot_arc: "[[The hunting of Nomi]]"
+location: [[Kihoso]]
+plot_arc: The hunting of Nomi
 tags:
   - session-log
   - campaign-progress
@@ -39,7 +38,7 @@ The party came across the 2 large Kabuto beetles guarding the nest deep to the n
 
 ## Locations Visited
 *   Kabuto Nest (north of Kihoso): Home to 5 females laying eggs in a nearby acidified pond.
-*   [[Kihoso]]: Returned with the beetle corpse in tow.
+*   [[Wrath of the Kaiju/Locations/Tofuoka Hills/Kihoso]]: Returned with the beetle corpse in tow.
 
 ## Items & Loot
 *   **Found:**
