@@ -1,4 +1,4 @@
-# Welcome to the Wrath of the Kaiju — Player Wiki
+1# Welcome to the Wrath of the Kaiju — Player Wiki
 
 This is the wiki for our D&D game! This is the **player version** of the site (kinda lol).
 ![[Wrath Home Page.png|552]]
