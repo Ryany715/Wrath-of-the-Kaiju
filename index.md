@@ -25,6 +25,12 @@ _(Numbering's a little funky in places — go by date if a number seems out of o
 - [[Session 11 - Armor of the Oni King]]
 - [[Session 12 - Battle with Raiko!]]
 - [[Session 13 - Jethro's End]]
+- [[Session 14 - Part of the crew]]
+- [[Session 15 - Deep in the guts]]
+- [[Session 16 - Off to sea]]
+- [[Session 17 - Monkey Overboard!]]
+- [[Session 18 - Arrival on the coast]]
+- [[Session 19 - The Bitan's Curse]]
 
 ## The World
 
