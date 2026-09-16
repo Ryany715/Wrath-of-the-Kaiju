@@ -66,8 +66,3 @@ The players arrived in the city of Kihoso, a vibrant town of molded hanging gour
 *   What happened to Yoshito?
 *   Will Dr. Doolots' device actually work on the full basin?
 *   What is causing the kabuto nest-building behavior north of the city?
-
-## DM Notes & Preparation for Next Session
-*   Prepare the kabuto nest encounter north of Kihoso.
-*   Bombuku to give the players his basalt bottle for acid collection next session.
-*   Water caravan (Odal) arriving early — prep that thread.

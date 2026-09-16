@@ -48,12 +48,3 @@ The players converged on the nexus of the path westward towards the city of Kiho
 * **Arrival at Kihoso:** The party has reached their initial destination, opening up new opportunities.
 ## Unresolved Questions & Cliffhangers
 * N/A
-
-## DM Notes & Preparation for Next Session
-- After reaching the town of kihoso, they will reach level 2. 
-- Players meet at the westward road that leads through the Tofuoka Hills towards Kihoso
-- The road leads through the acidic hills about 5-6 hours journey by Arthopod 
-- They will encounter a small town along the way, conducting a funereal procession in one of the kihomes. The procession is led by a monk clad in chitinous robes. The monk carries a corpse, and a Kasha attempt to reach the corpse and eat it.
-	- The town is called Tofua Town, they produce the saddles used to ride the mounted arthopods(millipedes, dragonflies, rhinocerous beetles)
-	- The ancient texts are kept under lock and key in the center of the monastery
-	- Very close inspection of the text reveals a section written in Abyssal in the back of the book, [[Ashura#Abyssal Text from the Fists of Ashura Monastery]]

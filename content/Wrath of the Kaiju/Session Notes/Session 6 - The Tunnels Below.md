@@ -55,8 +55,3 @@ The players continued their descent toward the aquifer beneath Kihoso. They pass
 *   What hatched from the massive egg, and why is Yoshito so fixated on it?
 *   Why has Yoshito remained at the aquifer instead of returning to Kihoso?
 *   What will happen once Dr. Doolots' device is activated?
-
-## DM Notes & Preparation for Next Session
-*   Prepare the reveal of what hatched from the massive egg — leads into Nomi.
-*   Prepare Yoshito's role/reaction now that the party has found him.
-*   Track the 12-hour timer for Dr. Doolots' device.

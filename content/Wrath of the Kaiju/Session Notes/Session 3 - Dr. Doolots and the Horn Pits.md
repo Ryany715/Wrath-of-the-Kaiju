@@ -55,9 +55,3 @@ Bombuku gave the players his basalt bottle, asking for a sample straight from th
 *   What does Bombuku intend to do with a stronger acid sample?
 *   What lies deeper in the kabuto nest beyond the two large guardians?
 *   What quest will Odal offer if approached directly?
-
-## DM Notes & Preparation for Next Session
-*   Alpha Kabuto encounter: a scarred, aggressive male has been fighting other males on the edge of town, stirred by Nomi's pheromones. Players must neutralize it via wrestling match or by killing it.
-*   Knowledge available to players depends on whether they've visited the fighting pits yet.
-*   Dr. Doolots will be at the fighting pits the second night after the water caravan arrives.
-*   Continue developing the water caravan quest thread from Odal.

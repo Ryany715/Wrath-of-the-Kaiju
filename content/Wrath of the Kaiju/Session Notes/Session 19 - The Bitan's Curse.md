@@ -59,8 +59,3 @@ The party descended into the hideout beneath the smugglers' warehouse, finding a
 *   What will they find waiting for them in Akibatsu Cove?
 *   What truths lie behind the lighthouse and the sunken temple beneath the whirlpool?
 *   What became of the failed negotiation with the Silk Purse arms dealers — will it have consequences?
-
-## DM Notes & Preparation for Next Session
-*   Prepare the Akibatsu Cove encounter with the Mistraider pirates.
-*   Develop the bitan/Iminada thread and the sacred fisherman's rite.
-*   Seed the lighthouse and sunken temple (Atlantis-style) as future exploration hooks.

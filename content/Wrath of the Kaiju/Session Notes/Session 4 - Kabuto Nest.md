@@ -52,8 +52,3 @@ The party came across the 2 large Kabuto beetles guarding the nest deep to the n
 ## Unresolved Questions & Cliffhangers
 *   What is truly driving the kabuto's aggressive, mating-like behavior?
 *   Where is the stronger acid source Bombuku's contact mentioned?
-
-## DM Notes & Preparation for Next Session
-*   Follow up on Bombuku's contact (the doctor) and the stronger acid sample lead.
-*   Track blacksmith quest materials harvested from the alpha Kabuto.
-*   Continue the horn pits / Yoshito disappearance thread.

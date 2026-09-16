@@ -58,8 +58,3 @@ The players arrived back in town with the kabuto corpse and briefly split up, wi
 *   What does the treasure map from Joob actually lead to?
 *   What is the full nature of the horn pits' connection to the Silk Purse?
 *   What did Muchu and Kofra find at the Golden Rain Temple?
-
-## DM Notes & Preparation for Next Session
-*   Prepare the continued descent toward the aquifer.
-*   Consider follow-up on Joob's treasure map and Blingdenstone as a potential side-quest hook.
-*   Continue developing the Silk Purse / horn pits thread.
