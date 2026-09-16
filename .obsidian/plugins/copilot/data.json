@@ -76,7 +76,7 @@
         "vision"
       ],
       "apiKey": "",
-      "maxTokens": 5700
+      "maxTokens": 4800
     },
     {
       "name": "gpt-5.5",

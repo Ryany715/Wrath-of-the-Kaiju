@@ -4,7 +4,10 @@
   "obsidian42-brat",
   "obsidian-discord-share",
   "copilot",
-  "obsidian-linter",
-  "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-paste-image-rename",
+  "advanced-find-and-replace",
+  "folder-links",
+  "timeline-view",
+  "obsidian-leaflet-plugin"
 ]

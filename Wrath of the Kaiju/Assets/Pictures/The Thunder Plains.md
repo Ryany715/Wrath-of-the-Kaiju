@@ -1,0 +1,1 @@
+![[art-plains-location-art-for-wilderness-travel-v0-tr25ghul5z791.png]]

@@ -10,10 +10,10 @@ At the start of his reign, the Thunder King led [[#The Hunt of Thunder]] to clea
 
 Lei Shen ruled Shen Ji through strength and wit. He united the people of the land under a single unified language (common). He created a single system of weight and currency that laid the foundation for society today. His reign saw the strict enforcement of law and order, with insurrection and rebellion punished by public evisceration and execution. Any and all who opposed his rule were subjected and enslaved. 
 
-He erected the walled city of [[Puyi]], the capital of his empire which lied in the center of the [[Puyi#Thunder Plains|Thunder Plains]]. 
+He erected the walled city of [[Wrath of the Kaiju/Locations/Puyi/Puyi]], the capital of his empire which lied in the center of the [[Wrath of the Kaiju/Locations/Puyi/Puyi#Thunder Plains|Thunder Plains]]. 
 
 # The Hunt of Thunder
 
 Once united under his powerful banner, Lei Shen began his hunt of the kaiju. Wielding the power of a Raiju infused into his body, and legions thousands strong, he was a force to be reckoned with. The Thunder King was no fool, he knew some of the kaiju could be placated in his study of historical text, and employed a vast manner of  cunning and clever tactics to reason with and 
 
-![[Pasted image 20250827213531.png]]
+![[Lei Shen.png]]

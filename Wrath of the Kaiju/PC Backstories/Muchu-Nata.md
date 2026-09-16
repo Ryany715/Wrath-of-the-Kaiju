@@ -64,5 +64,5 @@ Muchu-Nata's yokai love, Kamui, is the fallen form of [[Ashura]] who is searchin
 	1. 
 4. A white orb 
 	1. 
-Each time Muchu-Hito brings her a piece of herself, she becomes stronger and more powerful. Eventually, after acquiring all 4 pieces, she will be unbound from the realm and may re ascend back into godhood. She currently resides in [[Umigiri Coast#Yusha Village|Yusha Village]] in [[Umigiri Coast]] awaiting the return of her lover. 
+Each time Muchu-Hito brings her a piece of herself, she becomes stronger and more powerful. Eventually, after acquiring all 4 pieces, she will be unbound from the realm and may re ascend back into godhood. She currently resides in [[Wrath of the Kaiju/Locations/Umigiri Coast/Umigiri Coast#Yusha Village|Yusha Village]] in [[Wrath of the Kaiju/Locations/Umigiri Coast/Umigiri Coast]] awaiting the return of her lover. 
 

@@ -1,3 +1,18 @@
+```leaflet
+id: leaflet-map
+image: [[Map of Puyi.jpg]]
+height: 750px
+lat: 50
+long: 50
+minZoom: 1
+maxZoom: 10
+defaultZoom: 10
+unit: meters
+scale: 1
+marker: default, 39.983334, -82.983330, [[Note]]
+darkMode: false
+```
+
 The primary metropolitan center of Shen Ji, Puyi serves as the hub of trade and culture in the realm. Puyi is walled city, erected by the last great emperor of Shen Ji, [[Lei Shen]]. The city now serves as the the nexus for political and economic production, with an outlet to the sea along the Imini River, fed from the Kitikami Mountains. 
 
 The city of Puyi was originally founded during lei Shen's rule and served as the "Rome" of his rule. The city was used to establish a cultural hub and served as the major nexus point for the gathering of the armies under his rule. As such the original ancient city was surrounded by large walls and borders the Imini river which runs both through and aside the city. From here Lei shen built the docks that allowed for ship building that later defined the northern coast, the umigiri coast as the ships left their inland post. 
@@ -70,7 +85,7 @@ The lower city that lies beneath Puyi proper. The guts houses the sewer system a
 
 -  **Why it’s untamed/unclaimed:**  The plains are massive spanning all around the central city of Puyi with many nomadic peoples living amongst it. 
 Thunder Plains Cows
-![[Pasted image 20260701204013.png|334]]
+![[Plains Cow.png|334]]
 - Why it’s adventure worthy: The Large flatlands are home to marauders and nomadic bands of peoples. Some of them are pirate-like and target stealing from travelers. Some of the nomadic bands have some treasure that is kept by the regional warlords. There has been tell of a warlord who has begun to unite the nomadic tribes under a single banner who goes by the name Volsung Fa. 
 	- Fa believes that uniting the people under a single banner will lead the people of the plains to a strength they have never known before
 	- Once united under his banner he plans to move the people north to the Umigiri coast to learn the ways of the ships and the sea
@@ -80,7 +95,7 @@ Thunder Plains Cows
 - The guard is forthcoming and will let the party know the following: 
 
 1. Volsung Fa is a massive orc who leads a nomadic group of warriors who call themselves the Wind of the Plains. 
-2. Volsung Fa is a massive orc who wears a tank like armor covered in iron spikes![[Pasted image 20260701191541.png|284]]
+2. Volsung Fa is a massive orc who wears a tank like armor covered in iron spikes![[Volsung Fa.png|284]]
 3. The first plume of the guard, captain Georgio has sent them to investigate Fa and his roving band, there has been rumblings that he means to unite the plains people under a single banner, which has some of the citizens of Puyi quite concerned. 
 4. They will also divulge rumors about [[#Evernight Gate]], and [[#Thunderbird Point]]
 
@@ -269,10 +284,10 @@ If a player makes a bid that you believe is completely impossible, you can shout
 **5. Start a New Round**  
 Any player who loses all 5 of their dice is permanently eliminated from the game. The person who just lost a die starts the next round by rolling and making a new opening bid
 
-# Pegasus Guard Headquarters
-![[Pasted image 20260701181706.png|209]]
+# Pegasus Guard
+![[Pegasus Guard.png|209]]
 The Pegasus Guard are employed by the city of Puyi and represent a the cities main military and defense force. The guard are mobilized at the behest of the city council, and are commanded by The First Plume of the Pegasus guard, Captain Georgio. The guard is largely meant to stay in the immediate surroundings of Puyi, and are principally for the defense of the peoples. The Pegasus Guard do not operate in the [[#The Guts]] at all, instead keeping their patrol to the city proper.  Any given member of the guard has the stat block of:
-![[Pasted image 20260701191051.png]] 
+![[Guard stat block.png]] 
 
 The guard is principally concerned with the antics of Volsung Fa, many of them being dispatched to gain intelligence of Fa and what he is doing in the plains, as well as the concerns of the thefts that have been occurring in the Moor of Merchants in the city proper.
 

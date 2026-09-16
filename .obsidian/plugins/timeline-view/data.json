@@ -1,0 +1,15 @@
+{
+  "openWith": {
+    "property": "session_number",
+    "secondaryProperty": {
+      "name": "date",
+      "inUse": true,
+      "useAs": "end"
+    },
+    "filter": {
+      "query": "Session Notes"
+    },
+    "groups": [],
+    "previousState": false
+  }
+}

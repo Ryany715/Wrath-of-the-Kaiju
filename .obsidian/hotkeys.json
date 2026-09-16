@@ -1,0 +1,11 @@
+{
+  "advanced-find-and-replace:modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}
